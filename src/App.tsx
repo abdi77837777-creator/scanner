@@ -260,7 +260,7 @@ export default function App() {
           <div className="flex items-center space-x-4 rtl:space-x-reverse justify-end order-last md:order-first">
             <div className="w-11 h-11 rounded-xl overflow-hidden border border-emerald-500/30 flex items-center justify-center shadow-[0_0_15px_rgba(16,185,129,0.35)] shrink-0 bg-slate-950">
               <img 
-                src="/src/assets/images/lek_scanner_icon_1780899517943.png" 
+                src="/lek_scanner_icon.png" 
                 alt="Lek Scanner Core Logo" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
