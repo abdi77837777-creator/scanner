@@ -258,8 +258,13 @@ export default function App() {
         <header className="flex flex-col md:flex-row items-center justify-between px-6 py-4 bg-[#111114] border border-slate-850 rounded-2xl mb-8 gap-4 text-right">
           
           <div className="flex items-center space-x-4 rtl:space-x-reverse justify-end order-last md:order-first">
-            <div className="w-10 h-10 bg-emerald-500 rounded-lg flex items-center justify-center shadow-[0_0_15px_rgba(16,185,129,0.3)] shrink-0">
-              <Radio className="w-5 h-5 text-black animate-pulse" />
+            <div className="w-11 h-11 rounded-xl overflow-hidden border border-emerald-500/30 flex items-center justify-center shadow-[0_0_15px_rgba(16,185,129,0.35)] shrink-0 bg-slate-950">
+              <img 
+                src="/src/assets/images/lek_scanner_icon_1780899517943.png" 
+                alt="Lek Scanner Core Logo" 
+                className="w-full h-full object-cover"
+                referrerPolicy="no-referrer"
+              />
             </div>
             <div className="text-right">
               <h1 className="text-2xl font-black text-white font-sans tracking-tight">
