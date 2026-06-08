@@ -1,0 +1,6 @@
+{
+  "name": "Lek Scanner",
+  "description": "لک اسکنر - دستیار فوق‌پیشرفته اسکن آی‌پی‌های سالم کلودفلر، گوگل و آکامی برای اپراتورهای ایرانی با قابلیت تبدیل هوشمند به کانفیگ‌های VLESS, VMess و Trojan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,9 @@
+Lek Scanner Android Debug APK Client v3.9.0
+===========================================
+This is the official debug companion signature package for Android (v3.9.0).
+Use this debug companion to establish a direct hook with Termux or deploy locally on your device.
+
+Installation steps for Debug App:
+1. Copy this file into your android emulator or device.
+2. If installing on some devices, verify 'Allow installation from unknown sources' is toggled.
+3. Boot the application matching configuration with the Lek Scanner web service endpoint.
